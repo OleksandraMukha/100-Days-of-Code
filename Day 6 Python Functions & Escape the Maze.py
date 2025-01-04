@@ -1,10 +1,3 @@
-"""
-On Day 6 of my 100 Days of Code journey, 
-I focused on learning Python functions, indentation, while loops, 
-and problem-solving with Karel. I applied these skills to build 
-the "Escape the Maze" project, which used loops and logic to navigate 
-Karel through a maze successfully.
-"""
 #Reeborg's World Wevsite Link
 #https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
 
